@@ -1,0 +1,21 @@
+{
+  "name": "binskills",
+  "owner": {
+    "name": "Bin"
+  },
+  "description": "我的个人 Skills 商店 — 收集和分发实用的 Claude Code 插件",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "binskills",
+      "source": "./",
+      "description": "Bin 的个人 Skills 集合，包含项目分析等实用工具",
+      "version": "1.0.0",
+      "author": {
+        "name": "Bin"
+      },
+      "keywords": ["analysis", "documentation", "knowledge-base", "utilities"],
+      "category": "development"
+    }
+  ]
+}
